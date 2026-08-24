@@ -56,7 +56,7 @@ chargeback-assistant/
 └── docker-compose.yml
 ```
 
-## Run it with Docker (recommended)
+## Run it with Docker
 
 ```bash
 docker compose up --build
