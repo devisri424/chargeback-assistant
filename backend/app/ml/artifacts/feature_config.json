@@ -1,0 +1,18 @@
+{
+  "numeric": [
+    "amount",
+    "days_since_transaction",
+    "account_age_days",
+    "previous_chargebacks_count",
+    "customer_communication_count",
+    "has_delivery_confirmation",
+    "has_signed_receipt",
+    "refund_already_issued",
+    "avs_match",
+    "cvv_match"
+  ],
+  "categorical": [
+    "reason_code",
+    "merchant_category"
+  ]
+}
